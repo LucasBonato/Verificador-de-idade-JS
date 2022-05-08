@@ -1,5 +1,4 @@
 function verificando() {
-
     let data = new Date();
     let anoAtual = data.getFullYear();
     let anoNasc = document.getElementById('ano');
